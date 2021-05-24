@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1610572920 source:c:\users\kerols\desktop\safixtrie\main.cpp
+	<iostream>
+
+1610548829 source:c:\users\kerols\desktop\safixtrie\src\suffixtrie.cpp
+	"SuffixTrie.h"
+
+1610550282 c:\users\kerols\desktop\safixtrie\include\suffixtrie.h
+	<LinkedList.h>
+	<iostream>
+
+1610549172 source:c:\users\kerols\desktop\safixtrie\src\linkedlist.cpp
+	"LinkedList.h"
+
+1610550282 c:\users\kerols\desktop\safixtrie\include\linkedlist.h
+	<SuffixTrie.h>
+	<iostream>
+
